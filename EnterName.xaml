@@ -1,0 +1,11 @@
+﻿<Window x:Class="_2048.EnterNamexaml"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EnterNamexaml" Height="258" Width="522" Background="#FFDCEFEE">
+    <Grid Focusable="True" Height="237" Width="497" Background="#FFDCEFEE">
+        <TextBox Height="32" HorizontalAlignment="Left" Margin="108,149,0,0" Name="Name" VerticalAlignment="Top" Width="282" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Text="Enter your name" GotFocus="textBox1_GotFocus" LostFocus="Name_LostFocus" />
+        <Button Content="Enter" Height="26" HorizontalAlignment="Left" Margin="196,193,0,0" Name="button1" VerticalAlignment="Top" Width="108" Click="button1_Click" />
+        <Image Height="139" HorizontalAlignment="Left" Margin="-26,-17,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="523" Source="/2048;component/Images/Untitled-3.png" />
+        <Label Content="You broke a high score !" Height="28" HorizontalAlignment="Left" Margin="27,103,0,0" Name="label1" VerticalAlignment="Top" Width="440" HorizontalContentAlignment="Center" FontSize="18" FontWeight="Bold" FontStyle="Normal" Foreground="#FF274FFC" />
+    </Grid>
+</Window>

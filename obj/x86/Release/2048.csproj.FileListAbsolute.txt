@@ -1,0 +1,35 @@
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\MainWindow.baml
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\MainWindow.g.cs
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\App.g.cs
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\2048_MarkupCompile.cache
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\2048.g.resources
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\_2048.Properties.Resources.resources
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\2048.csproj.GenerateResource.Cache
+F:\רון\2048\2048\bin\Release\2048.exe.manifest
+F:\רון\2048\2048\bin\Release\2048.application
+F:\רון\2048\2048\bin\Release\2048.exe
+F:\רון\2048\2048\bin\Release\2048.pdb
+F:\רון\2048\2048\obj\x86\Release\MainWindow.baml
+F:\רון\2048\2048\obj\x86\Release\MainWindow.g.cs
+F:\רון\2048\2048\obj\x86\Release\App.g.cs
+F:\רון\2048\2048\obj\x86\Release\2048_MarkupCompile.cache
+F:\רון\2048\2048\obj\x86\Release\2048.g.resources
+F:\רון\2048\2048\obj\x86\Release\_2048.Properties.Resources.resources
+F:\רון\2048\2048\obj\x86\Release\2048.csproj.GenerateResource.Cache
+F:\רון\2048\2048\obj\x86\Release\2048.exe.manifest
+F:\רון\2048\2048\obj\x86\Release\2048.application
+F:\רון\2048\2048\obj\x86\Release\2048.exe
+F:\רון\2048\2048\obj\x86\Release\2048.pdb
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\2048.exe
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\2048.pdb
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\bin\Release\2048.exe.manifest
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\bin\Release\2048.application
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\bin\Release\2048.exe
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\bin\Release\2048.pdb
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\2048.exe.manifest
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\2048.application
+d:\users\ron\documents\visual studio 2010\Projects\2048\2048\obj\x86\Release\EnterName.baml
+d:\users\ron\documents\visual studio 2010\Projects\2048\2048\obj\x86\Release\EnterName.g.cs
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\HighScores.baml
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\HighScores.g.cs
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Release\2048.csprojResolveAssemblyReference.cache

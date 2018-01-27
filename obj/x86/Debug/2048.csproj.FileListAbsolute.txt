@@ -1,0 +1,52 @@
+C:\Users\Ron\AppData\Local\Temporary Projects\2048\bin\Debug\2048.exe
+C:\Users\Ron\AppData\Local\Temporary Projects\2048\bin\Debug\2048.pdb
+C:\Users\Ron\AppData\Local\Temporary Projects\2048\obj\x86\Debug\MainWindow.baml
+C:\Users\Ron\AppData\Local\Temporary Projects\2048\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ron\AppData\Local\Temporary Projects\2048\obj\x86\Debug\App.g.cs
+C:\Users\Ron\AppData\Local\Temporary Projects\2048\obj\x86\Debug\2048_MarkupCompile.cache
+C:\Users\Ron\AppData\Local\Temporary Projects\2048\obj\x86\Debug\2048.g.resources
+C:\Users\Ron\AppData\Local\Temporary Projects\2048\obj\x86\Debug\_2048.Properties.Resources.resources
+C:\Users\Ron\AppData\Local\Temporary Projects\2048\obj\x86\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\Ron\AppData\Local\Temporary Projects\2048\obj\x86\Debug\2048.exe
+C:\Users\Ron\AppData\Local\Temporary Projects\2048\obj\x86\Debug\2048.pdb
+d:\users\ron\documents\visual studio 2010\Projects\2048\2048\obj\x86\Debug\2048.exe
+d:\users\ron\documents\visual studio 2010\Projects\2048\2048\obj\x86\Debug\2048.pdb
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.exe
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.pdb
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\MainWindow.baml
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\MainWindow.g.cs
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\App.g.cs
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048_MarkupCompile.cache
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.g.resources
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\_2048.Properties.Resources.resources
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.csproj.GenerateResource.Cache
+F:\רון\2048\2048\obj\x86\Debug\2048.exe
+F:\רון\2048\2048\obj\x86\Debug\2048.pdb
+F:\רון\2048\2048\bin\Debug\2048.exe
+F:\רון\2048\2048\bin\Debug\2048.pdb
+F:\רון\2048\2048\obj\x86\Debug\MainWindow.baml
+F:\רון\2048\2048\obj\x86\Debug\MainWindow.g.cs
+F:\רון\2048\2048\obj\x86\Debug\App.g.cs
+F:\רון\2048\2048\obj\x86\Debug\2048_MarkupCompile.cache
+F:\רון\2048\2048\obj\x86\Debug\2048.g.resources
+F:\רון\2048\2048\obj\x86\Debug\_2048.Properties.Resources.resources
+F:\רון\2048\2048\obj\x86\Debug\2048.csproj.GenerateResource.Cache
+F:\רון\2048\2048\bin\Debug\2048.exe.manifest
+F:\רון\2048\2048\bin\Debug\2048.application
+F:\רון\2048\2048\obj\x86\Debug\2048.exe.manifest
+F:\רון\2048\2048\obj\x86\Debug\2048.application
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.exe.manifest
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.application
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.exe.manifest
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.application
+d:\users\ron\documents\visual studio 2010\Projects\2048\2048\obj\x86\Debug\EnterName.baml
+d:\users\ron\documents\visual studio 2010\Projects\2048\2048\obj\x86\Debug\EnterName.g.cs
+d:\users\ron\documents\visual studio 2010\Projects\2048\2048\obj\x86\Debug\HighScores.baml
+d:\users\ron\documents\visual studio 2010\Projects\2048\2048\obj\x86\Debug\HighScores.g.cs
+D:\Users\Ron\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.csprojResolveAssemblyReference.cache
+F:\2048NoDB\2048\obj\x86\Debug\2048.exe
+F:\2048NoDB\2048\obj\x86\Debug\2048.pdb
+F:\Ron\2048NoDB\2048\obj\x86\Debug\2048.exe
+F:\Ron\2048NoDB\2048\obj\x86\Debug\2048.pdb
+C:\Users\Ron\Documents\Visual Studio 2015\Projects\2048NoDB\2048\obj\x86\Debug\2048.exe
+C:\Users\Ron\Documents\Visual Studio 2015\Projects\2048NoDB\2048\obj\x86\Debug\2048.pdb
